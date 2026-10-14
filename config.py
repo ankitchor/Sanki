@@ -274,7 +274,6 @@ SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
 )
 
-
 # =========================================================
 # TIME CONVERSION
 # =========================================================
